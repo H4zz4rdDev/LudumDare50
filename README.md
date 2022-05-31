@@ -1,6 +1,6 @@
 # Ludum Dare 50 - Flower Power
 
-Heyho, my name is C64Gamer and I created this game for the LD50 game jam. All assets are selfmade and no Unity asset store package was used.
+Heyho, my name is H4zz4rdDev and I created this game for the LD50 game jam. All assets are selfmade and no Unity asset store package was used.
 
 ### Story 
 You are farmer!
